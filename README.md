@@ -1,4 +1,4 @@
-# SpringBoot_CRUD_WebApp_EmpDB
+# Employee Management System
 First_CRUD_SpringBoot_WebApp
 
 This is my first CRUD WebApp made with Java_springBoot
